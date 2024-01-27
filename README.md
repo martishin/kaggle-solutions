@@ -1,1 +1,1 @@
-My solutions for [Kaggle](https://www.kaggle.com/) challenges 
+Solutions for [Kaggle](https://www.kaggle.com/) challenges 
